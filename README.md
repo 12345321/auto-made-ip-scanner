@@ -1,3 +1,0 @@
-# auto-made-ip-scanner
-
-
